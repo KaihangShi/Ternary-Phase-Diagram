@@ -1,5 +1,5 @@
 # Ternary-Phase-Diagram
-MATLAB code to construct ternary phase diagram for polymer/solvent/non-solvent system using Flory-Huggins theory.
+MATLAB code to construct ternary phase diagram for polymer/solvent/non-solvent system using Flory-Huggins theory.<br/>
 ![Ternary phase diagram for THF/PIM-1/DMF (left curve) and THF/PIM-1/Toluene (right curve)](https://github.com/KaihangShi/Ternary-Phase-Diagram/blob/main/TPD.png)
 
 ## Requirement
